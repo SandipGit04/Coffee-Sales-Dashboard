@@ -1,4 +1,8 @@
 # Customer & Sales Dashboard - Tableau Project
 📊 Comprehensive Sales & Customer Dashboard for Strategic Decision-Making
 
-## https://cdn-icons-png.freepik.com/256/1150/1150643.png?semt=ais_hybrid Project Overview
+## 📌 Project Overview
+The Sales & Customer dashboard was designed to provide a Comprehensive overview of sales performance and customer behaviour, enabling data-driven decision making. This project aimed to visualize key metrics, Identify trends, and uncover insights that could help optimize sales strategies and customer engagement and increase productivity.
+
+# 
+# 
