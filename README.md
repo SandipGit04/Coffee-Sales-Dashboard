@@ -22,9 +22,9 @@ Identifies the top five customers contributing significantly to total coffee sal
 
 ## 🔍 Dashboard Filters
 ### The dashboard allows users to refine results based on:
-**● Time Period (Years, Quarters, Months, Days)
-● Roast Type
-● Coffee Size
+**● Time Period (Years, Quarters, Months, Days)  
+● Roast Type  
+● Coffee Size  
 ● Loyalty Card Usage**
 
 ---
